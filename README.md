@@ -3,10 +3,15 @@
 # Hey there, I'm Sushil Ojha! 👋
 I am a Web Developer and Computer Engineering Student based in Pokhara, Kaski, Nepal. I'm passionate about coding and enjoy working on a variety of projects. I'm also interested in network security and cybersecurity.
 
-🌐 Visit my portfolio: [sushilojha.com.np](https://sushilojha.com.np/)  
-📧 Email me: [sushilojha58@gmail.com](mailto:sushilojha58@gmail.com)  
-💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/sushilojha)  
 
+
+
+
+
+ Email me: [📧](mailto:sushilojha58@gmail.com)
+
+[![Facebook](https://img.icons8.com/ios-filled/50/0078FF/facebook-new.png)](https://www.facebook.com/oza.susil)
+[![Instagram](https://img.icons8.com/ios-filled/50/fccc63/instagram-new--v1.png)](https://www.instagram.com/sushil_ojha58)
 ---
 
 
@@ -21,16 +26,12 @@ I am a Web Developer and Computer Engineering Student based in Pokhara, Kaski, N
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
-<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
-
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suss58&show_icons=true&theme=dark)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suss58&layout=compact&theme=dark)
-
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suss58&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suss58&show_icons=true&theme=highcontrast&hide_border=true)![GitHub Streak](https://streak-stats.demolab.com/?user=suss58&theme=highcontrast&hide_border=true)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=suss58&color=blueviolet)
