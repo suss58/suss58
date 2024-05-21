@@ -1,5 +1,3 @@
-
-
 ![Profile Picture](https://raw.githubusercontent.com/suss58/suss58/main/White%20logo%20-%20no%20background.png)
 
 # Hey there, I'm Sushil Ojha! 👋
@@ -11,7 +9,6 @@ I am a Web Developer and Computer Engineering Student based in Pokhara, Kaski, N
 
 ---
 
-## 🛠️ Skills
 
 ### Programming Languages & Tools
 [![Python](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg)](https://www.python.org/)
