@@ -1,4 +1,4 @@
-![Profile Picture](https://raw.githubusercontent.com/suss58/suss58/main/White%20logo%20-%20no%20background.png)
+![Profile Picture](https://github.com/suss58/suss58/blob/main/Color%20logo%20with%20background.png)
 
 # Hey there, I'm Sushil Ojha! 👋
 I am a Web Developer and Computer Engineering Student based in Pokhara, Kaski, Nepal. I'm passionate about coding and enjoy working on a variety of projects. I'm also interested in network security and cybersecurity.
