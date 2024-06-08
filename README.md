@@ -1,19 +1,16 @@
-![Profile Picture](https://github.com/suss58/suss58/blob/main/Color%20logo%20with%20background.png)
+<div style="position: relative; display: inline-block; width: 100%;">
 
-# Hey there, I'm Sushil Ojha! 👋
-I am a Web Developer and Computer Engineering Student based in Pokhara, Kaski, Nepal. I'm passionate about coding and enjoy working on a variety of projects. I'm also interested in network security and cybersecurity.
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 20px; background-color: rgba(0, 0, 0, 0.5); padding: 20px; border-radius: 10px; text-align: center;">
+    <h3>Hey there, I'm Sushil Ojha! 👋</h3>
+    <p>I'm a dedicated Web Developer and Computer Engineering student located in Pokhara, Kaski, Nepal. With a deep passion for coding, I thrive on developing innovative projects. My interests extend to network security and cybersecurity, where I continually seek to expand my knowledge and expertise.</p>
+  </div>
+</div>
 
-
-
-
-
-
- Email me: [📧](mailto:sushilojha58@gmail.com)
+Email me: [📧](mailto:sushilojha58@gmail.com)
 
 [![Facebook](https://img.icons8.com/ios-filled/50/0078FF/facebook-new.png)](https://www.facebook.com/oza.susil)
 [![Instagram](https://img.icons8.com/ios-filled/50/fccc63/instagram-new--v1.png)](https://www.instagram.com/sushil_ojha58)
 ---
-
 
 ### Programming Languages & Tools
 [![Python](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg)](https://www.python.org/)
@@ -26,13 +23,10 @@ I am a Web Developer and Computer Engineering Student based in Pokhara, Kaski, N
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
-
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suss58&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suss58&show_icons=true&theme=highcontrast&hide_border=true)![GitHub Streak](https://streak-stats.demolab.com/?user=suss58&theme=highcontrast&hide_border=true)
 
-
 ![Profile Views](https://komarev.com/ghpvc/?username=suss58&color=blueviolet)
-
