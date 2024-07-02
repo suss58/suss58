@@ -2,7 +2,7 @@
 
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 20px; background-color: rgba(0, 0, 0, 0.5); padding: 20px; border-radius: 10px; text-align: center;">
     <h3>Hey there, I'm Sushil Ojha! 👋</h3>
-    <p>I excel in creating innovative projects and have a keen interest in network security and cybersecurity. I am constantly looking to enhance my skills and expertise in these areas.</p>
+    <p>I excel in creating innovative projects and have a keen interest in cybersecurity. I am constantly looking to enhance my skills and expertise in these areas. Additionally, I am also proficient in web development.</p>
   </div>
 </div>
 
