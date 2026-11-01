@@ -1,9 +1,9 @@
 
 <div align="center">
 
-# Hi, I'm Sushil Ojha 👋
+# Hey, I'm Sushil Ojha! 👋
 
-### Information Security Professional | Aspiring Security Engineer
+### Security Engineer | Cybersecurity Professional
 
 <p>
   <a href="https://www.linkedin.com/in/sushil-ojha-131746277/">
@@ -23,33 +23,34 @@
 
 ## 👨‍💻 About Me
 
-I'm an Information Security professional passionate about building, improving, and maintaining secure technology environments.
+I'm a cybersecurity professional interested in designing, implementing, and improving security solutions that help protect modern technology environments.
 
-Currently working in **Information Security at Cedar Gate**, where I contribute to enterprise security operations, vulnerability management, security assessments, application security, and compliance initiatives.
+My experience spans multiple areas of information security, including security operations, application security, vulnerability management, infrastructure security, risk management, and security compliance.
 
-My interests lie in bridging security engineering, automation, and governance to help organizations strengthen their security posture.
+I enjoy exploring security technologies, solving technical challenges, and finding practical ways to integrate security into everyday development and operational workflows.
 
-- 🔐 Interested in **Information Security Engineering & Application Security**
-- 🛡️ Working across vulnerability management, security operations, and GRC
-- ⚙️ Exploring security automation, DevSecOps, and security tooling integrations
-- 🔍 Experience with automated security scanning and vulnerability assessment
-- 🌐 Community volunteer and co-organizer at **OWASP Kathmandu**
-- 📚 Continuously learning about emerging cybersecurity technologies
+- 🔐 Exploring the evolving cybersecurity landscape.
+- 🛡️ Interested in enterprise security and security engineering.
+- ⚙️ Working with security tools, automation, and integrations.
+- 🔍 Passionate about identifying risks and strengthening security controls.
+- 🌐 Contributing to the cybersecurity community through OWASP Kathmandu.
+- 📚 Always learning, building, and experimenting with new technologies.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technologies & Tools
 
-### Security & Cybersecurity
+### Security & Engineering
 
 <p>
-<img src="https://img.shields.io/badge/Application_Security-222222?style=flat-square&logo=owasp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vulnerability_Management-222222?style=flat-square"/>
-<img src="https://img.shields.io/badge/DevSecOps-222222?style=flat-square&logo=gitlab&logoColor=white"/>
-<img src="https://img.shields.io/badge/Security_Operations-222222?style=flat-square"/>
-<img src="https://img.shields.io/badge/GRC-222222?style=flat-square"/>
+<img src="https://img.shields.io/badge/Information_Security-222222?style=flat-square"/>
+<img src="https://img.shields.io/badge/Application_Security-222222?style=flat-square"/>
 <img src="https://img.shields.io/badge/Cloud_Security-222222?style=flat-square"/>
-<img src="https://img.shields.io/badge/Incident_Response-222222?style=flat-square"/>
+<img src="https://img.shields.io/badge/Infrastructure_Security-222222?style=flat-square"/>
+<img src="https://img.shields.io/badge/Vulnerability_Management-222222?style=flat-square"/>
+<img src="https://img.shields.io/badge/Security_Operations-222222?style=flat-square"/>
+<img src="https://img.shields.io/badge/DevSecOps-222222?style=flat-square"/>
+<img src="https://img.shields.io/badge/GRC-222222?style=flat-square"/>
 </p>
 
 ### Security Tools & Platforms
@@ -69,7 +70,7 @@ My interests lie in bridging security engineering, automation, and governance to
 <img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,gitlab,docker,js,react,mongodb,mysql" />
 </p>
 
-### Security Frameworks & Standards
+### Frameworks & Standards
 
 <p>
 <img src="https://img.shields.io/badge/ISO_27001-00599C?style=flat-square"/>
@@ -82,14 +83,15 @@ My interests lie in bridging security engineering, automation, and governance to
 
 ---
 
-## 🚀 Areas of Interest
+## 🎯 Areas of Interest
 
-- Information Security Engineering
-- Application Security & Secure SDLC
-- Vulnerability Assessment & Remediation
-- Security Automation & Tool Integrations
-- DevSecOps & CI/CD Security
-- Enterprise Security & Governance
+- Security Engineering & Architecture
+- Application & Infrastructure Security
+- Cloud & Enterprise Security
+- Vulnerability Assessment & Management
+- Security Operations & Incident Response
+- Security Automation & DevSecOps
+- Governance, Risk & Compliance
 
 ---
 
@@ -109,7 +111,7 @@ My interests lie in bridging security engineering, automation, and governance to
 
 <div align="center">
 
-### "Security is not a product, but a continuous process."
+### Building secure systems. Solving problems. Staying curious.
 
 <img src="https://komarev.com/ghpvc/?username=suss58&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" />
 
