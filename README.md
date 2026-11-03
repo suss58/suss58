@@ -1,15 +1,14 @@
-
 <div align="center">
 
 # Hey, I'm Sushil Ojha! 👋
 
-### Security Engineer | Cybersecurity Professional
+### Computer Engineer | Security Engineer
 
 <p>
   <a href="https://www.linkedin.com/in/sushil-ojha-131746277/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:sushilojha58@gmail.com">
+  <a href="mailto:ojhasushil58@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://sushilojha.com.np">
@@ -17,81 +16,64 @@
   </a>
 </p>
 
+📍 Kathmandu, Nepal &nbsp;·&nbsp; CompTIA Security+ (SY0-701)
+
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a cybersecurity professional interested in designing, implementing, and improving security solutions that help protect modern technology environments.
+Security Engineer working across security operations, application security, vulnerability management, and third-party risk. I care about practical controls — SIEM and incident response, vendor assessments, and security that fits how teams actually build and run systems.
 
-My experience spans multiple areas of information security, including security operations, application security, vulnerability management, infrastructure security, risk management, and security compliance.
+- 🛡️ Security operations, incident response, and vulnerability management
+- 🔍 Web and mobile application testing, aligned with OWASP Top 10
+- 📋 TPRM and compliance support for SOC 2, HITRUST, HIPAA, and ISO 27001
+- 🌐 OWASP Kathmandu and Pentester Nepal
 
-I enjoy exploring security technologies, solving technical challenges, and finding practical ways to integrate security into everyday development and operational workflows.
-
-- 🔐 Exploring the evolving cybersecurity landscape.
-- 🛡️ Interested in enterprise security and security engineering.
-- ⚙️ Working with security tools, automation, and integrations.
-- 🔍 Passionate about identifying risks and strengthening security controls.
-- 🌐 Contributing to the cybersecurity community through OWASP Kathmandu.
-- 📚 Always learning, building, and experimenting with new technologies.
+**Now:** Information Security Analyst at Cedargate Technologies, an IQVIA business
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-### Security & Engineering
-
-<p>
-<img src="https://img.shields.io/badge/Information_Security-222222?style=flat-square"/>
-<img src="https://img.shields.io/badge/Application_Security-222222?style=flat-square"/>
-<img src="https://img.shields.io/badge/Cloud_Security-222222?style=flat-square"/>
-<img src="https://img.shields.io/badge/Infrastructure_Security-222222?style=flat-square"/>
-<img src="https://img.shields.io/badge/Vulnerability_Management-222222?style=flat-square"/>
-<img src="https://img.shields.io/badge/Security_Operations-222222?style=flat-square"/>
-<img src="https://img.shields.io/badge/DevSecOps-222222?style=flat-square"/>
-<img src="https://img.shields.io/badge/GRC-222222?style=flat-square"/>
-</p>
-
-### Security Tools & Platforms
-
 <p>
 <img src="https://img.shields.io/badge/CrowdStrike-EE0000?style=flat-square&logo=crowdstrike&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elastic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square"/>
+<img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Nuclei-222222?style=flat-square"/>
+<img src="https://img.shields.io/badge/Nmap-222222?style=flat-square"/>
 <img src="https://img.shields.io/badge/Veracode-0085CA?style=flat-square"/>
 <img src="https://img.shields.io/badge/Rapid7-FF0000?style=flat-square"/>
-<img src="https://img.shields.io/badge/InsightVM-222222?style=flat-square"/>
-<img src="https://img.shields.io/badge/SIEM-222222?style=flat-square"/>
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 </p>
-
-### Programming & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,gitlab,docker,js,react,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,docker,js,react,mongodb,mysql,aws" />
 </p>
-
-### Frameworks & Standards
 
 <p>
 <img src="https://img.shields.io/badge/ISO_27001-00599C?style=flat-square"/>
 <img src="https://img.shields.io/badge/NIST_CSF-222222?style=flat-square"/>
 <img src="https://img.shields.io/badge/NIST_800--53-222222?style=flat-square"/>
+<img src="https://img.shields.io/badge/CIS_Controls-222222?style=flat-square"/>
 <img src="https://img.shields.io/badge/SOC_2-222222?style=flat-square"/>
 <img src="https://img.shields.io/badge/HIPAA-222222?style=flat-square"/>
 <img src="https://img.shields.io/badge/HITRUST-222222?style=flat-square"/>
+<img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white"/>
+<img src="https://img.shields.io/badge/MITRE_ATT%26CK-222222?style=flat-square"/>
 </p>
 
 ---
 
-## 🎯 Areas of Interest
+## 🚀 Featured
 
-- Security Engineering & Architecture
-- Application & Infrastructure Security
-- Cloud & Enterprise Security
-- Vulnerability Assessment & Management
-- Security Operations & Incident Response
-- Security Automation & DevSecOps
-- Governance, Risk & Compliance
+**Real Estate Web App** — MERN app with real-time chat (Socket.io) and a machine learning model for property price prediction.
+
+**B.E. Computer Engineering** — Pokhara University
 
 ---
 
